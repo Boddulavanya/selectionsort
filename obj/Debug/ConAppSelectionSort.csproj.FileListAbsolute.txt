@@ -1,0 +1,8 @@
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-15\ConAppSelectionSort\ConAppSelectionSort\obj\Debug\ConAppSelectionSort.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-15\ConAppSelectionSort\ConAppSelectionSort\obj\Debug\ConAppSelectionSort.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-15\ConAppSelectionSort\ConAppSelectionSort\obj\Debug\ConAppSelectionSort.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-15\ConAppSelectionSort\ConAppSelectionSort\bin\Debug\ConAppSelectionSort.exe.config
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-15\ConAppSelectionSort\ConAppSelectionSort\bin\Debug\ConAppSelectionSort.exe
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-15\ConAppSelectionSort\ConAppSelectionSort\bin\Debug\ConAppSelectionSort.pdb
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-15\ConAppSelectionSort\ConAppSelectionSort\obj\Debug\ConAppSelectionSort.exe
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-15\ConAppSelectionSort\ConAppSelectionSort\obj\Debug\ConAppSelectionSort.pdb
